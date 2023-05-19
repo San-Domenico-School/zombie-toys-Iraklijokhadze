@@ -1079,18 +1079,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: Floor
       objectReference: {fileID: 0}
-    - target: {fileID: 100000, guid: c9f7dc133e9718d4c995d447a042d83c, type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
-      objectReference: {fileID: 0}
-    - target: {fileID: 100002, guid: c9f7dc133e9718d4c995d447a042d83c, type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
-      objectReference: {fileID: 0}
-    - target: {fileID: 100004, guid: c9f7dc133e9718d4c995d447a042d83c, type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
-      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: c9f7dc133e9718d4c995d447a042d83c, type: 3}
       propertyPath: m_RootOrder
       value: 4
