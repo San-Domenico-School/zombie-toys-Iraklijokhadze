@@ -98,8 +98,8 @@ Animator:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2370744901108367886}
   m_Enabled: 1
-  m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 0}
+  m_Avatar: {fileID: 9000000, guid: 7985cdaa35ef74a67ba40a39b1216f64, type: 3}
+  m_Controller: {fileID: 22100000, guid: cf2e3eabad37d4f57a7bec77a416e033, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -158,8 +158,8 @@ MonoBehaviour:
   scoreValue: 25
   sinkSpeed: 2.5
   deathEffectTime: 2
-  deathClip: {fileID: 0}
-  hurtClip: {fileID: 0}
+  deathClip: {fileID: 8300000, guid: 1d3bfb9269f136947bf8ac164cace1ff, type: 3}
+  hurtClip: {fileID: 8300000, guid: 02e6208ec76314158a9f548f51fe9f11, type: 3}
   enemyAttack: {fileID: 2370744901108367880}
   enemyMovement: {fileID: 2370744901108367879}
   animator: {fileID: 8377328475261812455}
